@@ -1,0 +1,23 @@
+owner,repo,github_url,search_keyword,total_questions,avg_score,answered_ratio,top_tags
+paradigmxyz,reth,https://github.com/paradigmxyz/reth,reth ethereum,1,0.0,0.0,"blockchain, ethereum"
+ethereum,go-ethereum,https://github.com/ethereum/go-ethereum,go ethereum,50,1.36,0.52,"ethereum, go-ethereum, go"
+alloy-rs,alloy,https://github.com/alloy-rs/alloy,alloy ethereum,0,0.0,0.0,
+prysmaticlabs,prysm,https://github.com/prysmaticlabs/prysm,prysm ethereum,4,1.0,0.75,"ethereum, go-ethereum, synchronization"
+hyperledger,besu,https://github.com/hyperledger/besu,besu ethereum,5,0.2,0.0,"ethereum, hyperledger, hyperledger-besu"
+foundry-rs,foundry,https://github.com/foundry-rs/foundry,foundry ethereum,2,0.5,0.0,"ethereum, solidity, blockchain"
+ethereum,web3.py,https://github.com/ethereum/web3.py,web3 ethereum,50,2.16,0.68,"ethereum, web3js, web3py"
+ethereum,remix-project,https://github.com/ethereum/remix-project,remix project ethereum,8,1.0,0.5,"ethereum, blockchain, solidity"
+openzeppelin,openzeppelin-contracts,https://github.com/openzeppelin/openzeppelin-contracts,openzeppelin contracts ethereum,38,1.0526315789473684,0.5263157894736842,"ethereum, solidity, smartcontracts"
+grandinetech,grandine,https://github.com/grandinetech/grandine,grandine ethereum,0,0.0,0.0,
+vyperlang,vyper,https://github.com/vyperlang/vyper,vyper ethereum,13,1.0769230769230769,0.5384615384615384,"ethereum, vyper, solidity"
+nomicfoundation,hardhat,https://github.com/nomicfoundation/hardhat,hardhat ethereum,50,2.06,0.58,"ethereum, hardhat, solidity"
+a16z,helios,https://github.com/a16z/helios,helios ethereum,0,0.0,0.0,
+status-im,nimbus-eth2,https://github.com/status-im/nimbus-eth2,nimbus ethereum,0,0.0,0.0,
+eth-infinitism,account-abstraction,https://github.com/eth-infinitism/account-abstraction,account abstraction ethereum,2,1.0,0.5,"ethereum, solidity, nethereum"
+safe-global,safe-smart-account,https://github.com/safe-global/safe-smart-account,safe smart account ethereum,0,0.0,0.0,
+vyperlang,titanoboa,https://github.com/vyperlang/titanoboa,titanoboa ethereum,0,0.0,0.0,
+scaffold-eth,scaffold-eth-2,https://github.com/scaffold-eth/scaffold-eth-2,scaffold eth 2 ethereum,0,0.0,0.0,
+hyperledger-web3j,web3j,https://github.com/hyperledger-web3j/web3j,web3j ethereum,37,1.2432432432432432,0.4864864864864865,"ethereum, web3-java, java"
+ethereum,py-evm,https://github.com/ethereum/py-evm,py-evm ethereum,2,2.0,0.5,"ethereum, python, blockchain"
+ethers-io,ethers.js,https://github.com/ethers-io/ethers.js,ethers.js ethereum,50,3.7,0.66,"ethereum, ethers.js, solidity"
+sigp,lighthouse,https://github.com/sigp/lighthouse,lighthouse ethereum,1,1.0,0.0,"blockchain, ethereum, lighthouse"
