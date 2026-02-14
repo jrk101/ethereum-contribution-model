@@ -1,6 +1,6 @@
 # Ethereum Contribution Model
 
-A **Bradley–Terry-based contribution ranking system** for Ethereum open-source repositories, trained directly on **pairwise juror comparisons**.
+A **Bradley Terry-based contribution ranking system** for Ethereum open-source repositories, trained directly on **pairwise juror comparisons**.
 
 Built as part of a challenge backed by Vitalik Buterin and the Ethereum Foundation.
 
@@ -8,8 +8,8 @@ Built as part of a challenge backed by Vitalik Buterin and the Ethereum Foundati
 
 ##  Results
 
-- **2nd Place** – *Quantifying Contributions of Open Source Projects to the Ethereum Universe* challenge  
--  **Winner – Write-Up Competition**
+- **2nd Place** - *Quantifying Contributions of Open Source Projects to the Ethereum Universe* challenge  
+-  **Winner - Write-Up Competition**
 
 **Feedback on the winning write-up:** [Ethereum Magicians](https://ethereum-magicians.org/t/model-submissions-for-ethereum-deep-funding/24200/28) (nickname: Zoul)
 
